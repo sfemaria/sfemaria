@@ -1,99 +1,40 @@
-# 👩🏻‍💻 | Maria Eduarda
+# 👩🏻‍💻 Maria Eduarda Ferreira
 
-**`Software Enginner student | Desenvolvedora FullStack`**
+**Software Engineering Student | Full Stack Developer**
 
-Me chamo Maria Eduarda, tenho 18 anos, moro em Contagem MG. Iniciei meu desenvolvimento na tecnologia como Tecnica em Cibersistemas para Automação e atualmente sou graduanda de Engenharia de software. Gosto de ler livros, jogar, filmes de suspense e comédia! Sou apaixonada por tecnologia e tenho a caixola cheia de ideias, por isso estou começando a trilhar meu caminho como fullstack :) (mesmo que backend me tenha muito maiss). Gosto de estar em aprendizado constante e conhecer novas ferramentas. Atualmente tenho habilidades com: C#, .NET, CSS, HTML, UNITY, SQLserver, PYTHON, C, C++.
+Olá! Sou Maria Eduarda, estudante de Engenharia de Software e formada como Técnica em Cibersistemas para Automação.
+
+Sou apaixonada por tecnologia e por transformar ideias em projetos reais. Tenho maior interesse pela área de backend, mas gosto de aprender continuamente e explorar diferentes tecnologias no desenvolvimento de software.
+
+Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, principalmente de suspense e comédia.
+
+### 🚀 Tecnologias
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
 </p>
 
----
+### 📚 Atualmente
 
-### 🤖 Linguagens e Tecnologias
+* Desenvolvendo projetos em C# e .NET
+* Estudando Desenvolvimento Full Stack
+* Aprendendo novas ferramentas e boas práticas de engenharia de software
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+### 📫 Contato
 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+* LinkedIn: www.linkedin.com/in/maria-eduarda-sf
+* E-mail: meduardasf08@gmail.com
 
+## 📊 Estatísticas
 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfemaria&show_icons=true&theme=tokyonight)
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfemaria&layout=compact&theme=tokyonight)
