@@ -28,11 +28,6 @@ Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, prin
 * Estudando Desenvolvimento Full Stack
 * Aprendendo novas ferramentas e boas práticas de engenharia de software
 
-### 📫 Contato
-
-* LinkedIn: www.linkedin.com/in/maria-eduarda-sf
-* E-mail: meduardasf08@gmail.com
-
 ## 🌍 Idiomas
 
 - 🇧🇷 Português — Nativo
@@ -45,3 +40,11 @@ Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, prin
 - Inteligência Artificial
 - Engenharia de Software
 - Game Development com Unity
+- Desenvolvimento de softwares e sites
+- Desenvolvimento de API'S
+- Cibersegurança
+
+### 📫 Contato
+
+* LinkedIn: www.linkedin.com/in/maria-eduarda-sf
+* E-mail: meduardasf08@gmail.com
