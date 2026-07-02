@@ -33,8 +33,15 @@ Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, prin
 * LinkedIn: www.linkedin.com/in/maria-eduarda-sf
 * E-mail: meduardasf08@gmail.com
 
-## 📊 Estatísticas
+## 🌍 Idiomas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfemaria&show_icons=true&theme=tokyonight)
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Leitura técnica e entendimento (em evolução)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfemaria&layout=compact&theme=tokyonight)
+## 💡 Interesses
+
+- Desenvolvimento Back-end
+- Desenvolvimento Full Stack
+- Inteligência Artificial
+- Engenharia de Software
+- Game Development com Unity
