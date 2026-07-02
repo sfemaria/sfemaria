@@ -1,11 +1,9 @@
-# 👩🏻‍💻 Maria Eduarda Ferreira
+# 👩🏻‍💻 Maria Eduarda 
 
 **Software Engineering Student | Full Stack Developer**
 
 Olá! Sou Maria Eduarda, estudante de Engenharia de Software e formada como Técnica em Cibersistemas para Automação.
-
 Sou apaixonada por tecnologia e por transformar ideias em projetos reais. Tenho maior interesse pela área de backend, mas gosto de aprender continuamente e explorar diferentes tecnologias no desenvolvimento de software.
-
 Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, principalmente de suspense e comédia.
 
 ### 🚀 Tecnologias
@@ -40,9 +38,6 @@ Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, prin
 - Inteligência Artificial
 - Engenharia de Software
 - Game Development com Unity
-- Desenvolvimento de softwares e sites
-- Desenvolvimento de API'S
-- Cibersegurança
 
 ### 📫 Contato
 
