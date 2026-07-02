@@ -43,3 +43,7 @@ Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, prin
 
 * LinkedIn: www.linkedin.com/in/maria-eduarda-sf
 * E-mail: meduardasf08@gmail.com
+
+<p align="center">
+  <img src="[https://tenor.com/pt-BR/view/alien-cat-coffee-alien-cat-coffee-planet-gif-11754785132011810490]" width="250">
+</p>
