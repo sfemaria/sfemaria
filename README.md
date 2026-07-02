@@ -6,6 +6,13 @@ Olá! Sou Maria Eduarda, estudante de Engenharia de Software e formada como Téc
 Sou apaixonada por tecnologia e por transformar ideias em projetos reais. Tenho maior interesse pela área de backend, mas gosto de aprender continuamente e explorar diferentes tecnologias no desenvolvimento de software.
 Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, principalmente de suspense e comédia.
 
+
+### Atualmente
+
+* Desenvolvendo projetos em C# e .NET
+* Estudando Desenvolvimento Full Stack
+* Aprendendo novas ferramentas e boas práticas de engenharia de software
+
 ### 🚀 Tecnologias
 
 <p align="left">
@@ -20,11 +27,6 @@ Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, prin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
 </p>
 
-### 📚 Atualmente
-
-* Desenvolvendo projetos em C# e .NET
-* Estudando Desenvolvimento Full Stack
-* Aprendendo novas ferramentas e boas práticas de engenharia de software
 
 ## 🌍 Idiomas
 
