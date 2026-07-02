@@ -28,12 +28,12 @@ Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, prin
 </p>
 
 
-## 🌍 Idiomas
+##  Idiomas
 
 - 🇧🇷 Português — Nativo
 - 🇺🇸 Inglês — Leitura técnica e entendimento (em evolução)
 
-## 💡 Interesses
+##  Interesses
 
 - Desenvolvimento Back-end
 - Desenvolvimento Full Stack
