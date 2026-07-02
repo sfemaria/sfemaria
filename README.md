@@ -45,5 +45,5 @@ Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, prin
 * E-mail: meduardasf08@gmail.com
 
 <p align="center">
-  <img src="[https://tenor.com/pt-BR/view/alien-cat-coffee-alien-cat-coffee-planet-gif-11754785132011810490]" width="250">
+  <img src="https://media1.tenor.com/m/JZUmtmJY-fgAAAAd/cat-calm.gif" alt="Cat drinking coffee" width="250">
 </p>
