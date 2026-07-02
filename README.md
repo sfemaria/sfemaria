@@ -44,6 +44,5 @@ Nas horas vagas, gosto de ler, jogar videogame e assistir filmes e séries, prin
 * LinkedIn: www.linkedin.com/in/maria-eduarda-sf
 * E-mail: meduardasf08@gmail.com
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/JZUmtmJY-fgAAAAd/cat-calm.gif" alt="Cat drinking coffee" width="250">
-</p>
+<img width="498" height="281" alt="cat-calm" src="https://github.com/user-attachments/assets/af8eeb3f-9d7c-46c3-a8d6-5ccaebfc42e3" />
+
